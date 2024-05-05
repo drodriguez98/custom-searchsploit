@@ -1,10 +1,10 @@
 # Automatic searchs and downloads with Searchsploit
 
-Tool to attack on FTP and SSH services using Hydra
+Tool to quickly find known vulnerabilities of different versions of packages or services.
 
 ## Install Searchsploit / ExploitDB
 
-If ExploitDB is not installed on the system, a warning will be displayed and it will be installed automatically when the script is started.
+If ExploitDB or Git are not installed on the system, a warning will be displayed and they will be installed automatically when the script is started.
 
 ## Usage
 
